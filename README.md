@@ -25,3 +25,7 @@ Terraform Hello World basics for people who starts to learn it
 1. Run to destroy: 
 
         $ terraform destroy
+
+## The next steps
+
+Go to official registry to find plugins and modules: https://registry.terraform.io/
