@@ -10,6 +10,10 @@ Terraform Hello World basics for people who starts to learn it
 ## Main steps
 
 1. Navigate to the repo's root folder in your CLI
+1. Init the repo:
+
+        $ terraform init
+
 1. Run to formate and check your code:
 
         $ terraform fmt
